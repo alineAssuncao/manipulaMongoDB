@@ -1,4 +1,4 @@
-package com.sprint.mongo.controller;
+package com.spring.mongo.controller;
 
 import org.springframework.web.bind.annotation.*;
 
