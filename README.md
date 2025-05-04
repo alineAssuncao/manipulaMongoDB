@@ -1,5 +1,7 @@
 # 📌 API Dinâmica para MongoDB
-by Aline Assunção
+*by Aline Assunção `[Jornada Tech]`*
+
+## Capítulo 3 - Java + API + Spring Boot + MongoDB
 
 🚀 Uma API simples e poderosa para leitura de dados no MongoDB, permitindo consultas dinâmicas, estruturadas e eficientes.
 
